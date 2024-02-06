@@ -7,6 +7,7 @@ This project aims to revolutionize surveillance technology by introducing an aut
 ```bash
 git clone <repository-url>
 cd Smart-Surveillance
+cd "Attribute recognition"
 pip install -r requirements.txt
 ```
 Usage
