@@ -1,7 +1,7 @@
 # Smart Surveillance: Person Recognition Using Textual Description
 
 ## Introduction
-This project aims to revolutionize surveillance technology by introducing an automated person recognition system. Leveraging deep learning, specifically Faster R-CNN and ResNet50, the system enhances the identification and localization of individuals in CCTV footage, addressing the inefficiencies of manual monitoring.
+This project aims to contribute to surveillance technology by introducing an automated person recognition system. Leveraging deep learning, specifically Faster R-CNN and ResNet50, the system enhances the identification and localization of individuals in CCTV footage, addressing the inefficiencies of manual monitoring.
 
 ## Installation
 ```bash
