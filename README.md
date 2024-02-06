@@ -32,9 +32,6 @@ The project uses two main datasets:
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
-## Contact
-Saransh Bhachawat - sbhachawat@umass.edu
-
 ## Acknowledgements
 This project builds upon existing research in the fields of computer vision and machine learning, aiming to provide a practical solution for law enforcement and public safety.
 
